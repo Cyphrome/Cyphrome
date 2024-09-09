@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Servus! 📚 Aris here</h1>
+<h3 align="center">You can call me a knowledge lover, i just love to learn things.</h3>
 
-<!--
-**Cyphrome/Cyphrome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Now i'm learning **Neuroscience 🦠**
 
-Here are some ideas to get you started:
+- 🧑‍🏫 My favourite topic is: **Psychology, Philosophy, and Physics**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Anything!**
+
+- 📫 How to reach me **salman.alfarisi01@ui.ac.id**
+
+- 🤧 Fun fact **I'm a lazy person**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Cyphrome"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Cyphrome" /></a><a href="https://ko-fi.com/Cyphrome"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Cyphrome" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyphrome&show_icons=true&locale=en&layout=compact" alt="cyphrome" /></p>
