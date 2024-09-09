@@ -3,7 +3,7 @@
 
 - I'm learning **Neuroscience 🦠**
 
-- 🧑‍🏫 My favourite topic is: **Psychology, Philosophy, and Physics**
+- 🧑‍🏫 My favourite topics are: **Psychology, Philosophy, and Physics**
 
 - 💬 Ask me about **Anything!**
 
