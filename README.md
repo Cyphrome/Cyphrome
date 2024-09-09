@@ -1,5 +1,5 @@
-<h2 align="center">Servus! 📚 Wie geht bei dir?</h1>
-<h3 align="center">You can call me a knowledge lover, i just love to learn things.</h3>
+<h2 align="center">Servus! Wie geht bei dir?</h1>
+<h5 align="center">You can call me a knowledge lover, i just love to learn things.</h3>
 
 - I'm learning **Neuroscience 🦠**
 
