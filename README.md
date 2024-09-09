@@ -7,11 +7,8 @@
 
 - 💬 Ask me about **Anything!**
 
-- 📫 How to reach me **salman.alfarisi01@ui.ac.id**
-
 - 🤧 Fun fact **I'm a lazy person**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
